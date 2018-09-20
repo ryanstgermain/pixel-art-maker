@@ -1,0 +1,101 @@
+.canvas {
+    background-color: azure;
+    border: 3px solid black;
+    width: 1200px;
+    height: 840px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.pixel {
+    background-color: white;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.colorPickerBox {
+    background-color: white;
+    border: 3px solid black;
+    width: 1200px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.red {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.blue {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: blue ;
+}
+
+.green {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+.black {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.yellow {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+.purple {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+}
+
+.pink {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+}
+
+.orange {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+}
+
+.white {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
