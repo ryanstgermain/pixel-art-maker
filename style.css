@@ -28,74 +28,49 @@
     align-items: center;
 }
 
-.red {
+.colorPicker {
     border: 1px solid black;
     border-radius: 50%;
     height: 100px;
     width: 100px;
+}
+
+#red {
     background-color: red;
 }
 
-.blue {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#red {
+    background-color: red;
+}
+
+#blue {
     background-color: blue ;
 }
 
-.green {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#green {
     background-color: green;
 }
 
-.black {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#black {
     background-color: black;
 }
 
-.yellow {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#yellow {
     background-color: yellow;
 }
 
-.purple {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#purple {
     background-color: purple;
 }
 
-.pink {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#pink {
     background-color: pink;
 }
 
-.orange {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#orange {
     background-color: orange;
 }
 
-.white {
-    border: 1px solid black;
-    border-radius: 50%;
-    height: 100px;
-    width: 100px;
+#white {
     background-color: white;
 }
